@@ -16,7 +16,7 @@ Or install it yourself as:
 
     $ gem install simsimi
 
-## Get Start
+## Getting Started
 
 ```ruby
 require 'simsimi'
